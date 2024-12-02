@@ -1,0 +1,31 @@
+2024-09-26 12:19:01,880 - DEBUG - This is DEBUG message
+2024-09-26 12:21:25,567 - DEBUG - This is DEBUG message
+2024-09-26 12:21:25,567 - INFO - This is INFO message
+2024-09-26 12:21:25,567 - WARNING - This is WARNING message
+2024-09-26 12:21:25,567 - ERROR - This is ERROR message
+2024-09-26 12:21:25,568 - CRITICAL - This is CRITICAL message
+2024-09-26 12:22:55,401 - ERROR - This is ERROR message
+2024-09-26 12:22:55,401 - CRITICAL - This is CRITICAL message
+2024-09-26 12:23:46,376 - INFO - This is INFO message
+2024-09-26 12:23:46,376 - WARNING - This is WARNING message
+2024-09-26 12:23:46,376 - ERROR - This is ERROR message
+2024-09-26 12:23:46,376 - CRITICAL - This is CRITICAL message2024-09-26 12:26:48,666 - INFO - This is INFO message
+2024-09-26 12:26:48,667 - WARNING - This is WARNING message
+2024-09-26 12:26:48,667 - ERROR - This is ERROR message
+2024-09-26 12:26:48,667 - CRITICAL - This is CRITICAL message
+2024-09-26 12:26:48,667 - INFO - Adding two numbers 2 + 3
+2024-09-26 12:27:12,423 - INFO - This is INFO message
+2024-09-26 12:27:12,423 - WARNING - This is WARNING message
+2024-09-26 12:27:12,423 - ERROR - This is ERROR message
+2024-09-26 12:27:12,423 - CRITICAL - This is CRITICAL message
+2024-09-26 12:27:12,423 - INFO - Adding two numbers 2 + 3
+2024-09-26 12:27:20,713 - INFO - This is INFO message
+2024-09-26 12:27:20,713 - WARNING - This is WARNING message
+2024-09-26 12:27:20,714 - ERROR - This is ERROR message
+2024-09-26 12:27:20,714 - CRITICAL - This is CRITICAL message
+2024-09-26 12:27:20,714 - INFO - Adding two numbers 2 + 3
+2024-09-27 12:38:25,165 - INFO - This is INFO message
+2024-09-27 12:38:25,166 - WARNING - This is WARNING message
+2024-09-27 12:38:25,166 - ERROR - This is ERROR message
+2024-09-27 12:38:25,166 - CRITICAL - This is CRITICAL message
+2024-09-27 12:38:25,166 - INFO - Adding two numbers 2 + 3

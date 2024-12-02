@@ -1,0 +1,4 @@
+2024-09-27 17:17:26 - ERROR - Login event - Username: test_error, Status: error
+2024-09-27 17:17:26 - WARNING - Login event - Username: test_expired, Status: expired
+2024-09-27 17:17:26 - INFO - Login event - Username: test_success, Status: success
+2024-09-27 17:17:26 - ERROR - Login event - Username: test_unknown, Status: unknown

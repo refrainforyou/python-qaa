@@ -1,0 +1,28 @@
+2024-09-26 13:50:44.497 | INFO     | __main__:<module>:10 - This is INFO message from loguru
+2024-09-26 13:50:44.498 | DEBUG    | __main__:<module>:11 - This is DEBUG message from loguru
+2024-09-26 13:50:44.498 | WARNING  | __main__:<module>:12 - This is WARNING message from loguru
+2024-09-26 13:50:44.498 | ERROR    | __main__:<module>:13 - This is ERROR message from loguru
+2024-09-26 13:50:44.498 | CRITICAL | __main__:<module>:14 - This is CRITICAL message from loguru
+2024-09-26 13:52:47.877 | INFO     | __main__:<module>:10 - This is INFO message from loguru
+2024-09-26 13:52:47.878 | DEBUG    | __main__:<module>:11 - This is DEBUG message from loguru
+2024-09-26 13:52:47.878 | WARNING  | __main__:<module>:12 - This is WARNING message from loguru
+2024-09-26 13:52:47.878 | ERROR    | __main__:<module>:13 - This is ERROR message from loguru
+2024-09-26 13:52:47.879 | CRITICAL | __main__:<module>:14 - This is CRITICAL message from loguru
+2024-09-26 13:52:56.354 | INFO     | __main__:<module>:10 - This is INFO message from loguru
+2024-09-26 13:52:56.354 | DEBUG    | __main__:<module>:11 - This is DEBUG message from loguru
+2024-09-26 13:52:56.354 | WARNING  | __main__:<module>:12 - This is WARNING message from loguru
+2024-09-26 13:52:56.354 | ERROR    | __main__:<module>:13 - This is ERROR message from loguru
+2024-09-26 13:52:56.355 | CRITICAL | __main__:<module>:14 - This is CRITICAL message from loguru
+2024-09-26 13:52:56.355 | ERROR    | __main__:<module>:21 - An error has been caught in function '<module>', process 'MainProcess' (8456), thread 'MainThread' (11616):
+Traceback (most recent call last):
+
+> File "C:\Users\Artem\PycharmProjects\python_hillel\lesson10\loguru_demo.py", line 21, in <module>
+    function()
+    └ <function function at 0x000002FBFFDC47C0>
+
+TypeError: function() missing 3 required positional arguments: 'x', 'y', and 'z'
+2024-09-26 13:53:48.224 | INFO     | __main__:<module>:10 - This is INFO message from loguru
+2024-09-26 13:53:48.225 | DEBUG    | __main__:<module>:11 - This is DEBUG message from loguru
+2024-09-26 13:53:48.225 | WARNING  | __main__:<module>:12 - This is WARNING message from loguru
+2024-09-26 13:53:48.225 | ERROR    | __main__:<module>:13 - This is ERROR message from loguru
+2024-09-26 13:53:48.225 | CRITICAL | __main__:<module>:14 - This is CRITICAL message from loguru

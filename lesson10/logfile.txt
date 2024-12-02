@@ -1,0 +1,25 @@
+2024-09-26 13:11:35,883 - DEBUG - This is DEBUG message
+2024-09-26 13:11:35,883 - INFO - This is INFO message
+2024-09-26 13:11:35,884 - WARNING - This is WARNING message
+2024-09-26 13:11:35,884 - ERROR - This is ERROR message
+2024-09-26 13:11:35,884 - CRITICAL - This is CRITICAL message
+2024-09-26 13:18:39,773 - DEBUG - This is DEBUG message
+2024-09-26 13:18:39,773 - INFO - This is INFO message
+2024-09-26 13:18:39,773 - WARNING - This is WARNING message
+2024-09-26 13:18:39,774 - ERROR - This is ERROR message
+2024-09-26 13:18:39,774 - CRITICAL - This is CRITICAL message
+2024-09-26 13:23:13,038 - DEBUG - This is DEBUG message - logging_file_stdout.py - <module> - 21 - __main__
+2024-09-26 13:23:13,038 - INFO - This is INFO message - logging_file_stdout.py - <module> - 22 - __main__
+2024-09-26 13:23:13,038 - WARNING - This is WARNING message - logging_file_stdout.py - <module> - 23 - __main__
+2024-09-26 13:23:13,039 - ERROR - This is ERROR message - logging_file_stdout.py - <module> - 24 - __main__
+2024-09-26 13:23:13,039 - CRITICAL - This is CRITICAL message - logging_file_stdout.py - <module> - 25 - __main__
+2024-09-26 13:24:47,904 - DEBUG - This is DEBUG message - logging_file_stdout.py - run_logger - 22 - __main__
+2024-09-26 13:24:47,904 - INFO - This is INFO message - logging_file_stdout.py - run_logger - 23 - __main__
+2024-09-26 13:24:47,904 - WARNING - This is WARNING message - logging_file_stdout.py - run_logger - 24 - __main__
+2024-09-26 13:24:47,904 - ERROR - This is ERROR message - logging_file_stdout.py - run_logger - 25 - __main__
+2024-09-26 13:24:47,904 - CRITICAL - This is CRITICAL message - logging_file_stdout.py - run_logger - 26 - __main__
+2024-09-26 13:26:28 - DEBUG - This is DEBUG message - logging_file_stdout.py - run_logger - 23 - __main__
+2024-09-26 13:26:28 - INFO - This is INFO message - logging_file_stdout.py - run_logger - 24 - __main__
+2024-09-26 13:26:28 - WARNING - This is WARNING message - logging_file_stdout.py - run_logger - 25 - __main__
+2024-09-26 13:26:28 - ERROR - This is ERROR message - logging_file_stdout.py - run_logger - 26 - __main__
+2024-09-26 13:26:28 - CRITICAL - This is CRITICAL message - logging_file_stdout.py - run_logger - 27 - __main__
